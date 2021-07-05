@@ -8,6 +8,8 @@ Make sure to
     pip install --upgrade [--user] pip
     ```
 
+# Pre-requisites
+## Hardware requirements
 # Issues:
 
 ## Getting the error “No matching distribution found for httpstan”
